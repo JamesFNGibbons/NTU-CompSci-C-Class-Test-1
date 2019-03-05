@@ -1,3 +1,5 @@
+Original files were from a VS studio project. The final code was compiled using G++ on OSX. Some changes have been made to header files to prevent windows only dependancies from being included during execution on a non windows based machine.
+
 ========================================================================
     CONSOLE APPLICATION : TestD1 Project Overview
 ========================================================================
